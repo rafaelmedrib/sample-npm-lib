@@ -1,0 +1,19 @@
+{
+  "name": "sample-npm-lib",
+  "version": "1.0.0",
+  "description": "There is nothing here so I'll just add some lorem ipsum text. Lorem ipsum sit ammet dolor sit ammet.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rafaelmedrib/sample-npm-lib.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "Rafael Medeiros",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  }
+}
