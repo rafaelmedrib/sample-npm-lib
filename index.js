@@ -46,6 +46,9 @@ function MathClass (){
      */
     divideTwoNumbers: function(a, b){
       return a / b;
+    },
+    isZero: function(a){
+      return a === 0;
     }
   }
 
